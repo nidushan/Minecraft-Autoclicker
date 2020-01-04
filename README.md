@@ -1,5 +1,5 @@
 # Minecraft Autoclicker
-<br>Made by [Smith J. Travis](https://github.com/smith-j-travis/) 
+Made by [Smith J. Travis](https://github.com/smith-j-travis/) 
 <br>Edited by [Nidushan](https://github.com/xNidushan)
 
 ## Install
