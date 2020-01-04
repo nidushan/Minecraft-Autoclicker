@@ -1,5 +1,4 @@
-# Autoclicker
-Minecraft auto clicker
+# Minecraft Autoclicker
 <br>Made by [Smith J. Travis](https://github.com/smith-j-travis/) 
 <br>Edited by [Nidushan](https://github.com/xNidushan)
 
@@ -16,3 +15,4 @@ Line yourself up for whatever action you want to take and then bring up the menu
 Once you click start, you will have 3 seconds to go into the game and exit the menu. When the countdown hits 0, the program will run and will auto tab you out of the game.
 
 When you want to stop, click "Stop" and it will stop the action.
+`#``#`
