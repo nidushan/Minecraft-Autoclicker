@@ -3,14 +3,14 @@ Minecraft auto clicker
 Made by [Smith J. Travis](https://github.com/smith-j-travis/)
 Edited by [Nidushan](https://github.com/xNidushan)
 
-# Install
-1) Be sure to go into options.txt in your .minecraft folder and set "pauseOnLostFocus" to "false"
+## Install
+Be sure to go into options.txt in your .minecraft folder and set "pauseOnLostFocus" to "false"
 Must be done with Minecraft closed
-To access your .minecraft folder, open explorer and paste this into the address bar:  %appdata%\.minecraft
+To access your .minecraft folder, open explorer and paste this into the address bar: ```bash %appdata%\.minecraft```
 
-2) Alternatively, you can also do F3 + P in game until it says "Pause on lost focus: disabled"
+Alternatively, you can also do F3 + P in game until it says "Pause on lost focus: disabled"
 
-# To Use:
+## To Use:
 Line yourself up for whatever action you want to take and then bring up the menu. Go into the application and click "Start".
 
 Once you click start, you will have 3 seconds to go into the game and exit the menu. When the countdown hits 0, the program will run and will auto tab you out of the game.
