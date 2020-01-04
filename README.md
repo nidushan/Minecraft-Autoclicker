@@ -1,7 +1,7 @@
 # Autoclicker
 Minecraft auto clicker
-[pip](https://pip.pypa.io/en/stable/)Made by https://github.com/smith-j-travis/
-Edited by https://github.com/xNidushan
+Made by [Smith J. Travis](https://github.com/smith-j-travis/)
+Edited by [Nidushan](https://github.com/xNidushan)
 
 # Install
 1) Be sure to go into options.txt in your .minecraft folder and set "pauseOnLostFocus" to "false"
