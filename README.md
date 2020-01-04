@@ -6,9 +6,7 @@ Edited by https://github.com/xNidushan
 # Install
 1) Be sure to go into options.txt in your .minecraft folder and set "pauseOnLostFocus" to "false"
 Must be done with Minecraft closed
-To access your .minecraft folder, open explorer and paste this into the address bar:
-
-%appdata%\.minecraft
+To access your .minecraft folder, open explorer and paste this into the address bar:  %appdata%\.minecraft
 
 2) Alternatively, you can also do F3 + P in game until it says "Pause on lost focus: disabled"
 
