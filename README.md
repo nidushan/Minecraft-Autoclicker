@@ -1,6 +1,6 @@
 # Autoclicker
 Minecraft auto clicker
-Made by https://github.com/smith-j-travis/
+[pip](https://pip.pypa.io/en/stable/)Made by https://github.com/smith-j-travis/
 Edited by https://github.com/xNidushan
 
 # Install
