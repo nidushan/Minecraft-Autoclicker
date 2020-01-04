@@ -1,5 +1,5 @@
 # Minecraft Autoclicker
-Made by [Smith J. Travis](https://github.com/smith-j-travis/) 
+Made by [Smith J. Travis](https://github.com/smith-j-travis/). His original [reddit page](https://www.reddit.com/r/Minecraft/comments/69eq3q/pc_simple_autoclicker_that_can_be_used_in_the/).
 <br>Edited by [Nidushan](https://github.com/xNidushan)
 
 ## Install
@@ -15,3 +15,5 @@ Line yourself up for whatever action you want to take and then bring up the menu
 Once you click start, you will have 3 seconds to go into the game and exit the menu. When the countdown hits 0, the program will run and will auto tab you out of the game.
 
 When you want to stop, click "Stop" and it will stop the action.
+
+###### THE ORIGINAL CREATOR IS LINKED ABOVE! I ONLY EDITED AND TWEAKED THE PROGRAM FOR BETTER PERFORMANCE AND TO WORK WITH NEWER MINECRAFT VERSIONS! PLEASE GIVE THE ORIGINAL CREATOR ALL THE LOVE!
