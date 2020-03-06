@@ -1,6 +1,6 @@
 # Minecraft Autoclicker
 Made by [Smith J. Travis](https://github.com/smith-j-travis/). His original [reddit page](https://www.reddit.com/r/Minecraft/comments/69eq3q/pc_simple_autoclicker_that_can_be_used_in_the/).
-<br>Edited by [Nidushan](https://github.com/xNidushan)
+<br>Edited by [xNidushan](https://github.com/xNidushan)
 
 ## Install
 Be sure to go into options.txt in your .minecraft folder and set "pauseOnLostFocus" to "false"
