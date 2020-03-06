@@ -1,7 +1,7 @@
 # Minecraft Autoclicker
 Made by [Smith J. Travis](https://github.com/smith-j-travis/). His original [reddit page](https://www.reddit.com/r/Minecraft/comments/69eq3q/pc_simple_autoclicker_that_can_be_used_in_the/).
 <br>Edited by [xNidushan](https://github.com/xNidushan)
-
+<br>Download link https://github.com/xNidushan/Minecraft-Autoclicker/archive/master.zip
 ## Install and setup (2 Methods)
 1) F3 + P in game until it says "Pause on lost focus: disabled"
 
