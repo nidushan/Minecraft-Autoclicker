@@ -15,6 +15,6 @@ Once you click start, you will have 3 seconds to go into the game and exit the m
 When you want to stop, click "Stop" and it will stop the action.
 
 ## Disclaimer:
-#### THE ORIGINAL CREATOR IS LINKED ABOVE<br>I EDITED AND TWEAKED THE PROGRAM FOR BETTER PERFORMANCE. I ALSO MADE IT COMPATILBLE AND STABLE FOR NEWER MINECRAFT VERSIONS! <br>PLEASE GIVE THE ORIGINAL CREATOR ALL THE LOVE! But dont forget about me :)
+**THE ORIGINAL CREATOR IS LINKED ABOVE<br>I EDITED AND TWEAKED THE PROGRAM FOR BETTER PERFORMANCE. I ALSO MADE IT COMPATILBLE AND STABLE FOR NEWER MINECRAFT VERSIONS! <br>PLEASE GIVE THE ORIGINAL CREATOR ALL THE LOVE! But dont forget about me :)**
 
 If you find any bugs or issues, please contact me thourgh this [Form](https://sites.google.com/view/nidushan/contact). 
